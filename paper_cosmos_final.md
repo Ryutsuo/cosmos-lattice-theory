@@ -2,7 +2,7 @@
 
 **Author:** David Botargues Martín
 **Date:** May 2026
-**Contact:** [tu-email@aqui.com]
+**Contact:**   akirashenkai@gmail.com
 **Simulation code:** https://github.com/Ryutsuo/cosmos-lattice-theory
 
 ---
